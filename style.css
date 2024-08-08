@@ -1,3 +1,10 @@
 body {
-    background-color: blue;
+    background-color: rgb(55, 163, 41);
+}
+
+p{
+    color: gold;
+}
+.caça-rato {
+    font-style: italic;
 }

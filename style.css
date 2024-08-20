@@ -1,6 +1,5 @@
 body {
     background-color: rgb(55, 163, 41);
-    text-align: center;
 }
 
 p{
@@ -9,4 +8,5 @@ p{
 .neymaru {
     font-style: oblique;
 color: firebrick;
+text-align: center;
 }

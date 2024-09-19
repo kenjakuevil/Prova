@@ -1,5 +1,6 @@
 body {
     background-color: rgb(55, 163, 41);
+    margin: 5px;
 }
 
 p{
@@ -25,4 +26,11 @@ section {
     padding-bottom: 40px;
     padding-top: 50px;
     display: flex;
+    justify-content: center;
+}
+div {
+    margin-right: 10px;
+}section {
+    ~~display: block;~~
+    unicode-bidi: isolate;
 }

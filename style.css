@@ -14,7 +14,15 @@ color: firebrick;
     width: 30%;
 }
 header {
-    border-bottom: solid 2px , rgb(228, 0, 0), rgb(37, 182, 49));}
-{padding: 30px
+    border-bottom: solid 2px rgb(92, 170, 196);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(67, 155, 108);
 }
-font-size 30px
+
+section {
+    background: rgb(195, 29, 29);
+    padding-bottom: 40px;
+    padding-top: 50px;
+    display: flex;
+}
